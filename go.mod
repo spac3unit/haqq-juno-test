@@ -6,7 +6,7 @@ require (
 	github.com/cosmos/cosmos-sdk v0.45.9
 	github.com/cosmos/gaia/v7 v7.1.0
 	github.com/forbole/juno/v3 v3.4.0
-	github.com/go-co-op/gocron v1.17.0
+	github.com/go-co-op/gocron v1.17.1
 	github.com/gogo/protobuf v1.3.3
 	github.com/haqq-network/haqq v1.2.1
 	github.com/jmoiron/sqlx v1.3.5
