@@ -6,7 +6,7 @@ require (
 	github.com/cosmos/cosmos-sdk v0.45.9
 	github.com/cosmos/gaia/v7 v7.1.0
 	github.com/forbole/juno/v3 v3.4.0
-	github.com/go-co-op/gocron v1.17.0
+	github.com/go-co-op/gocron v1.18.1
 	github.com/gogo/protobuf v1.3.3
 	github.com/haqq-network/haqq v1.2.1
 	github.com/jmoiron/sqlx v1.3.5
@@ -16,7 +16,7 @@ require (
 	github.com/proullon/ramsql v0.0.0-20181213202341-817cee58a244
 	github.com/rs/zerolog v1.28.0
 	github.com/spf13/cobra v1.6.0
-	github.com/stretchr/testify v1.8.0
+	github.com/stretchr/testify v1.8.2
 	github.com/tendermint/tendermint v0.34.21
 	google.golang.org/grpc v1.49.0
 	gopkg.in/yaml.v3 v3.0.1
@@ -147,7 +147,7 @@ require (
 	golang.org/x/crypto v0.0.0-20220919173607-35f4265a4bc0 // indirect
 	golang.org/x/exp v0.0.0-20220722155223-a9213eeb770e // indirect
 	golang.org/x/net v0.0.0-20220909164309-bea034e7d591 // indirect
-	golang.org/x/sync v0.0.0-20220722155255-886fb9371eb4 // indirect
+	golang.org/x/sync v0.1.0 // indirect
 	golang.org/x/sys v0.0.0-20220908150016-7ac13a9a928d // indirect
 	golang.org/x/term v0.0.0-20220722155259-a9ba230a4035 // indirect
 	golang.org/x/text v0.3.7 // indirect
